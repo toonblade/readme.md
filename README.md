@@ -1,5 +1,5 @@
-# readme.md
-Config files for my GitHub profile.
+# I'm toony
+
 Hey there!
 I'm toony and I am a proficient JavaScript programmer
 I also know HTML, CSS and Python
